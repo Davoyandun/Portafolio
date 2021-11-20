@@ -20,7 +20,7 @@ function ImageSection() {
           que no tuve miedo, pero más miedo me da no seguir mis sueños. <br/>
           Soy psicólogo clínico y disfruto trabajar con personas, sin embargo desde
           pequeño soy un apasionado con la tecnología y los problemas de lógica
-          y por diversas sazones no pude seguir mi sueño desde un inicio.<br/>
+          y por diversas razones no pude seguir mi sueño desde un inicio.<br/>
           Considero que el cambio es un signo de capacidad de superación y, por
           ello, creo que siempre sería capaz de aportar valor en la empresa en
           la que me encuentre.
