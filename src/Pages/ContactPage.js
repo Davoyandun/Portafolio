@@ -38,7 +38,7 @@ function ContactPage() {
     e.preventDefault();
     if (message.name && message.email && message.text) {
       emailjs.send(
-        "service_jp626wa",
+        "service_16izuq9",
         "template_e037pcs",
         message,
         "user_fpiFmqQZ8iXcpPQf3X756"
